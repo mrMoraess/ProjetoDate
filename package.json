@@ -1,0 +1,25 @@
+{
+  "name": "projetodate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpFile.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrMoraess/ProjetoDate.git"
+  },
+  "author": "\"Matheus Rodrigues\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrMoraess/ProjetoDate/issues"
+  },
+  "homepage": "https://github.com/mrMoraess/ProjetoDate#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2",
+    "gulp-uglifycss": "^1.1.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
